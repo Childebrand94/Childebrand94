@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Childebrand94/Childebrand94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Chirs Hildebrand</h1>
 <h3 align="center">Eager to Learn, Eager to Code | Passionate About Problem-Solving</h3>
 
