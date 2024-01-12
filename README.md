@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chirs Hildebrand</h1>
 <h3 align="center">Eager to Learn, Eager to Code | Passionate About Problem-Solving</h3>
 
+<h4 align="left"> About Me: </h4>
+
 - 🔭 I’m currently working on [PathFindr](https://github.com/Childebrand94/trip-planner)
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about **Rails, Go, Javascript**
