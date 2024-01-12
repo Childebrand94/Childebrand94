@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PathFindr](https://github.com/Childebrand94/trip-planner)
 - 🌱 I’m currently learning Rust
-- 💬 Ask me about **Rails, Go, Javascript**
+- 💬 Ask me about **Rails, Go, Javascript, Vim**
 
 
 <h3 align="left">Languages and Tools:</h3>
