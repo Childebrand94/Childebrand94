@@ -33,6 +33,6 @@
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-- 🌱 I’m currently learning:
+<h4 align="left">I’m currently learning:</h4>
 
-<image src="rust-crab.svg"/>
+<image src="rust-crab.svg" width="100px"/>
