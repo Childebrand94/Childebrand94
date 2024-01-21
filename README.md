@@ -35,4 +35,4 @@
 
 - 🌱 I’m currently learning:
 
-<image src="rust-crab.png"/>
+<image src="rust-crab.svg"/>
